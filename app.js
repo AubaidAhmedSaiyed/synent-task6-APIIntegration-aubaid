@@ -1,7 +1,7 @@
 const BASE = 'https://api.github.com';
 
 const $ = id => document.getElementById(id);
-
+let a
 const input    = $('search-input');
 const searchBtn= $('search-btn');
 const loading  = $('loading');
