@@ -1,8 +1,7 @@
 # Web Development Projects — Full Documentation
 
-A complete reference for all four front-end projects built in this session. Each section covers the objective, file structure, features, design decisions, technical implementation, and responsive behaviour.
+video: https://youtu.be/UVXcdIX3hes
 
-[Task 6 — API Integration Project (GitScope)](#task-6--api-integration-project-gitscope)
 
 
 
